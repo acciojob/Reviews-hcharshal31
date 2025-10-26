@@ -1,12 +1,63 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 h1 {
     color: #27aedb;
     text-align: center;
-    }
+}
     
+#review-heading{
+    font-size: 50px;
+    font-weight: 700;
+    color: #1c1c1c;
+}
 
 button{
-    color: #27aedb;
+    color: #ffffff;
+    background-color: rgb(35, 113, 223);
     text-align: center;
     justify-content: center;
     align-items: center;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    width: 180px;
+}
+
+#reviewDiv {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#review-box {
+    width: 40%;
+    border: 1px solid #1c1c1c;
+    padding: 25px;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    box-shadow: 5px 5px 10px #1c1c1c;
+}
+
+.info {
+    font-size: 16px;
+    color: #1c1c1c;
+    line-height: 22px;
+    font-weight: 400;
+}
+
+.job {
+    font-size: 16px;
+    color: #1c1c1c;
+    line-height: 22px;
+    font-weight: 700;
+}
+
+.person-img{
+    border-radius: 6px;
 }

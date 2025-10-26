@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "author": "Harshal Chavan",
+    "job": "Frontend Developer",
+    "info": "Harshal is an enthusiastic developer with a passion for creating interactive web applications.",
+    "person-img": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 2,
+    "author": "Sneha Patil",
+    "job": "UI/UX Designer",
+    "info": "Sneha specializes in designing intuitive user interfaces and improving user experience.",
+    "person-img": "https://randomuser.me/api/portraits/women/2.jpg"
+  },
+  {
+    "id": 3,
+    "author": "Amit Sharma",
+    "job": "Full Stack Developer",
+    "info": "Amit builds scalable full-stack applications and loves working with modern JavaScript frameworks.",
+    "person-img": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "id": 4,
+    "author": "Priya Singh",
+    "job": "Product Manager",
+    "info": "Priya has a keen eye for detail and ensures projects meet customer expectations and deadlines.",
+    "person-img": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "id": 5,
+    "author": "Rohan Gupta",
+    "job": "Backend Developer",
+    "info": "Rohan focuses on server-side logic and database management for robust applications.",
+    "person-img": "https://randomuser.me/api/portraits/men/5.jpg"
+  },
+  {
+    "id": 6,
+    "author": "Ananya Desai",
+    "job": "Quality Analyst",
+    "info": "Ananya ensures that all software releases are bug-free and meet quality standards.",
+    "person-img": "https://randomuser.me/api/portraits/women/6.jpg"
+  },
+  {
+    "id": 7,
+    "author": "Karan Mehta",
+    "job": "DevOps Engineer",
+    "info": "Karan automates deployments and maintains scalable cloud infrastructure.",
+    "person-img": "https://randomuser.me/api/portraits/men/7.jpg"
+  },
+  {
+    "id": 8,
+    "author": "Isha Verma",
+    "job": "Content Writer",
+    "info": "Isha creates compelling content that communicates product value clearly and effectively.",
+    "person-img": "https://randomuser.me/api/portraits/women/8.jpg"
+  },
+  {
+    "id": 9,
+    "author": "Vikram Rao",
+    "job": "Mobile App Developer",
+    "info": "Vikram develops user-friendly mobile applications for both iOS and Android platforms.",
+    "person-img": "https://randomuser.me/api/portraits/men/9.jpg"
+  },
+  {
+    "id": 10,
+    "author": "Meera Kulkarni",
+    "job": "Graphic Designer",
+    "info": "Meera designs visually appealing graphics and brand assets that enhance user engagement.",
+    "person-img": "https://randomuser.me/api/portraits/women/10.jpg"
+  }
+]
