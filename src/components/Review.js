@@ -26,10 +26,10 @@ const Review = () => {
             <div id="reviewDiv">
                 <button className="prev-btn" onClick={prevReview}>Previous</button>
                 <div id="review-box">
-                    <h2 className="author" id={`author-${currentReview?.id}`}>{currentReview?.author}</h2>
-                    <img className="person-img" src={currentReview["person-img"]} alt={currentReview?.author} />
+                    <h2 className="author" id={`author-${currentReview?.id}`}>{currentReview?.name}</h2>
+                    <img className="person-img" src={currentReview?.image} alt={currentReview?.name} />
                     <p className="job">{currentReview?.job}</p>
-                    <h4 className="info">{currentReview?.info}</h4>
+                    <h4 className="info">{currentReview?.text}</h4>
                 </div>
                 <button className="next-btn" onClick={nextReview}>Next</button>
             </div>
